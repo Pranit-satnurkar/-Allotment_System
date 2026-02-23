@@ -1,0 +1,13 @@
+Data Model
+type Member = {
+  id: string
+  name: string
+  currentChapter: number
+}
+
+Stored in LocalStorage:
+
+[
+  { "id": "1", "name": "Kalyani Khope", "currentChapter": 10 },
+  ...
+]

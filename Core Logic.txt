@@ -1,0 +1,12 @@
+Core Logic
+
+Total Members = 21
+Total Chapters = 21
+
+Weekly rotation formula:
+
+Next Chapter = (Current Chapter % 21) + 1
+
+Alternative (stateless calculation):
+
+Chapter = ((InitialChapter + WeekNumber - 1) % 21) + 1

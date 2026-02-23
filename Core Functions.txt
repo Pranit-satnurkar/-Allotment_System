@@ -1,0 +1,22 @@
+Core Functions Required
+rotateChapters()
+
+Loop members
+
+Increment chapter
+
+If 21 → 1
+
+getNextThursday()
+
+Detect today
+
+Calculate upcoming Thursday
+
+generateMessage()
+
+Insert date
+
+Insert formatted member list
+
+Return full string

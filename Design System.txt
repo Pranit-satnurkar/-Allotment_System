@@ -1,0 +1,42 @@
+Design System
+Colors
+
+Primary: Bottleneck Green
+Hex suggestion: #2F5D50
+
+Soft Background:
+#F5F3EE
+
+Accent:
+#A7C4BC
+
+Text:
+#1C1C1C
+
+Typography
+
+Heading:
+
+Semi-bold
+
+22–26px
+
+Body:
+
+16–18px
+
+Marathi text:
+
+Use system font or Noto Sans Devanagari
+
+Components
+
+Card (rounded-xl, soft shadow)
+
+Button (primary / secondary)
+
+Table (minimal borders)
+
+Textarea (for generated message)
+
+Modal (Add/Edit member)

@@ -1,0 +1,46 @@
+UI/UX Design Structure
+6.1 Design Principles
+
+Minimal
+
+Soft bottleneck green + off-white
+
+Large fonts
+
+Clear buttons
+
+No clutter
+
+Desktop-first
+
+6.2 Layout Structure
+🏠 Dashboard Page
+------------------------------------------------
+Header: ९१ कल्पवृक्ष पारायण व्यवस्थापन
+------------------------------------------------
+
+[ Week Info Card ]
+- Today: Tuesday
+- Reading Date: 19/02/2026
+- Total Members: 21
+
+------------------------------------------------
+
+[ Members Table Card ]
+
+| Name | Current Chapter | Edit | Delete |
+
+------------------------------------------------
+
+[ Actions Card ]
+
+[ Rotate Chapters ]
+[ Generate Message ]
+[ Copy Message ]
+
+------------------------------------------------
+
+[ Generated Message Preview Box ]
+
+(multiline formatted message)
+------------------------------------------------

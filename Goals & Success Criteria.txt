@@ -1,0 +1,20 @@
+Goals & Success Criteria
+Goals
+
+One-click chapter rotation
+
+Auto-generate formatted Marathi message
+
+Clean, minimal UI (desktop-first)
+
+Zero technical knowledge required for father
+
+Success Criteria
+
+Chapter rotation works infinitely
+
+Message ready to paste in WhatsApp
+
+No data loss
+
+Setup once → works forever
